@@ -1,2 +1,2 @@
-# Detecting-types-of-Breast-cancer
- Types of breast cancer detection ML model
+# Detecting-types-of-breast-cancer
+ An ML model which predict types of breast cancer being present
